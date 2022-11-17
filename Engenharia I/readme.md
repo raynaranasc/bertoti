@@ -26,3 +26,5 @@ Não Funcional:
 - Interface
 
 ## Diagrama de Classe
+![Diagrama](https://user-images.githubusercontent.com/90811047/202478340-6329be3b-15bf-4103-aded-30c5d0942b63.png)
+
