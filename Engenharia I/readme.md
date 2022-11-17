@@ -2,7 +2,7 @@
 
 Titus Winters, Software Engineering at Google
 
-# 25/08/22
+# Requisitos 
 
 Situação:
 Uma pessoa quer vender e comprar um livro. Ela entra no site e faz o cadastro,
@@ -21,3 +21,5 @@ Não Funcional:
 *Categoria de livros
 *Recomendações
 *Interface
+
+# Diagrama de Classe
