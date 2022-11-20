@@ -14,18 +14,14 @@ ela tem a opção de venda e compra. Busca os livros por categoria, autor e
 títulos, e pesquisar as ofertas por região.
 
 Funcional:
-- Cadastro de Login  
-- Cadastro do Livro 
-- Buscar por Categorias
-- Buscar ofertas por região
+- Cadastro dos funcionários
+- Consultar funcionários 
 
 Não Funcional:
-- Acesso em diferentes plataformas
-- Confirmação de pagamento
-- Categoria de livros
-- Recomendações
-- Interface
+- Interface simples
+- Fácil acesso 
 
 ## Diagrama de Classe
 ![Diagrama](https://user-images.githubusercontent.com/90811047/202478340-6329be3b-15bf-4103-aded-30c5d0942b63.png)
 
+## Casos de uso
