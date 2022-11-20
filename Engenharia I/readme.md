@@ -8,10 +8,6 @@ Titus Winters, Software Engineering at Google
 
 ## Requisitos 
 ##### Cadastro de Funcionário 
-Situação:
-Uma pessoa quer vender e comprar um livro. Ela entra no site e faz o cadastro,
-ela tem a opção de venda e compra. Busca os livros por categoria, autor e 
-títulos, e pesquisar as ofertas por região.
 
 Funcional:
 - Cadastro dos funcionários
