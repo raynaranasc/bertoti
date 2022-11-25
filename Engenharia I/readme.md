@@ -18,10 +18,12 @@ Não Funcional:
 - Fácil acesso 
 
 ## Diagrama de Classe
-![Diagrama](https://user-images.githubusercontent.com/90811047/202478340-6329be3b-15bf-4103-aded-30c5d0942b63.png)
+
+![1](https://user-images.githubusercontent.com/90811047/203976567-1791e6b5-e9b9-453c-9e83-67e51446c1b2.png)
 
 ## Casos de uso
-![usodados](https://user-images.githubusercontent.com/90811047/203879569-74daf94e-eb6a-4c60-9251-1e69b23cd1ab.png)
+![2](https://user-images.githubusercontent.com/90811047/203976474-b850107e-2509-4a43-b91f-89bd7dcfc133.png)
+
 
 ## Aplicação
   ![tela1](https://user-images.githubusercontent.com/90811047/203880090-2c98b271-73d7-4c38-a772-e1050897ab69.jpg)
