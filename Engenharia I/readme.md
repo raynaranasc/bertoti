@@ -25,3 +25,8 @@ Não Funcional:
 
 ## Aplicação
   ![tela1](https://user-images.githubusercontent.com/90811047/203880090-2c98b271-73d7-4c38-a772-e1050897ab69.jpg)
+## Desenvolvimento
+#### Classe funcionario
+![carbon (1)](https://user-images.githubusercontent.com/90811047/203880706-d0ae91a5-6226-47db-bff8-d9856f76d576.png)
+#### Classe funcionarioDAO
+![carbon](https://user-images.githubusercontent.com/90811047/203880838-f7e9654f-e6fa-44a1-a5f6-e1b9010414dd.png)
