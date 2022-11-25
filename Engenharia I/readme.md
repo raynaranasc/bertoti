@@ -21,5 +21,7 @@ Não Funcional:
 ![Diagrama](https://user-images.githubusercontent.com/90811047/202478340-6329be3b-15bf-4103-aded-30c5d0942b63.png)
 
 ## Casos de uso
+![usodados](https://user-images.githubusercontent.com/90811047/203879569-74daf94e-eb6a-4c60-9251-1e69b23cd1ab.png)
+
 ## Aplicação
    ![tela](https://user-images.githubusercontent.com/90811047/203394863-0ecfdcb3-a94f-4ea9-913a-d4c1188bb97f.jpg)
