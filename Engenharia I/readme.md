@@ -3,8 +3,10 @@
 
 Titus Winters, Software Engineering at Google
 
->
+> O texto fala que a engenharia de software envolve muito mais que só programar, é sobre a qualidade de tempo, organização e eficiência. O engenheiro de software pensa além da programação, pensa o que vai vir no futuro.
+
 ## Trade-off
+> Vejo o Trade-offs na API como uma troca de experiêcia e um método rápido para aprendizagem, desenvolvemos coisas novas e com qualidade, aprendendo a trabalhar em equipe, mas exige um certo tempo de dedicação e esforço.
 
 ## Requisitos 
 ##### Cadastro de Funcionário 
