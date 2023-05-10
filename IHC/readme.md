@@ -121,7 +121,7 @@ Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da açã
 <br>Figura 9: A plataforma de streaming de vídeo utiliza a heurística de reconhecimento de usuários, ao oferecer sugestões personalizadas de filmes e séries com base no histórico de visualização e nas preferências dos usuários.
 </div>
 
-<br>![image](https://github.com/raynaranasc/bertoti/assets/90811047/f8f26584-d465-4d30-a5bc-43dddab7b890)
+<br>
 
 
 <h3 id="10.ajuda-e-documentação">10. Ajuda e documentação</h2>
