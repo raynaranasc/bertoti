@@ -96,7 +96,7 @@ A interface deve permitir que os usuários tenham uma boa experiência com o sis
 <br>
 
 
-<br>Figura 7: Exemplo negativo de flexibilidade e eficiência de uso.
+<br>Figura 7: O serviço de e-mail do Google utiliza a heurística de flexibilidade e eficiência de uso, ao permitir que os usuários criem atalhos para as ações mais comuns e utilizem recursos avançados de pesquisa para encontrar mensagens com facilidade.
 </div>
 
 <br>
@@ -134,3 +134,7 @@ Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facili
 </div>
 
 <br>
+
+
+<h3> Como exemplo de falta de heurísticas:
+ <br> ![image](https://github.com/raynaranasc/bertoti/assets/90811047/1ce949df-2e6a-433e-8a6f-3cc19b0ac468)
