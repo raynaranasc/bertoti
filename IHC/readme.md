@@ -115,7 +115,8 @@ A interface deve ser minimalista e o conteúdo o mais direto possível, para nã
 <h3 id="9.ajudar-o-usuário-a-reconhecer,-diagnosticar-e-recuperar-se-de-erros">9. Ajudar o usuário a reconhecer, diagnosticar e recuperar-se de erros</h2>
 Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da ação que causou o erro.
 
-<br>
+<br>![image](https://github.com/raynaranasc/bertoti/assets/90811047/c68c70e0-c133-43a2-aabe-526cff065246)
+
 
 <br>Figura 9: A plataforma de streaming de vídeo utiliza a heurística de reconhecimento de usuários, ao oferecer sugestões personalizadas de filmes e séries com base no histórico de visualização e nas preferências dos usuários.
 </div>
@@ -125,7 +126,8 @@ Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da açã
 <h3 id="10.ajuda-e-documentação">10. Ajuda e documentação</h2>
 Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facilitando a usabilidade.
 
-<br>
+<br>![image](https://github.com/raynaranasc/bertoti/assets/90811047/d3375281-1cc8-49ce-ab61-bc98f28789ba)
+
 
 <br>Figura 10: O site da Microsoft utiliza a heurística de ajuda e documentação, ao fornecer tutoriais, artigos e suporte técnico para os usuários que precisam de ajuda para utilizar seus produtos.
 </div>
