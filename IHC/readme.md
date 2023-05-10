@@ -117,7 +117,7 @@ Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da açã
 
 <br>
 
-<br>Figura 9: Exemplo negativo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
+<br>Figura 9: A plataforma de streaming de vídeo utiliza a heurística de reconhecimento de usuários, ao oferecer sugestões personalizadas de filmes e séries com base no histórico de visualização e nas preferências dos usuários.
 </div>
 
 <br>
@@ -127,7 +127,7 @@ Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facili
 
 <br>
 
-<br>Figura 10: Exemplo negativo de ajuda e documentação.
+<br>Figura 10: O site da Microsoft utiliza a heurística de ajuda e documentação, ao fornecer tutoriais, artigos e suporte técnico para os usuários que precisam de ajuda para utilizar seus produtos.
 </div>
 
 <br>
