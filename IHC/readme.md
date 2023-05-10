@@ -127,7 +127,8 @@ Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da açã
 <h3 id="10.ajuda-e-documentação">10. Ajuda e documentação</h2>
 Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facilitando a usabilidade.
 
-<br>![image](https://github.com/raynaranasc/bertoti/assets/90811047/d3375281-1cc8-49ce-ab61-bc98f28789ba)
+<br>![image](https://github.com/raynaranasc/bertoti/assets/90811047/3a2765e5-a3ea-49cc-a71a-4096d9cea028)
+
 
 
 <br>Figura 10: O site da Microsoft utiliza a heurística de ajuda e documentação, ao fornecer tutoriais, artigos e suporte técnico para os usuários que precisam de ajuda para utilizar seus produtos.
