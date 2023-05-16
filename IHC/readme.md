@@ -123,7 +123,6 @@ Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da açã
 
 <br>
 
-
 <h3 id="10.ajuda-e-documentação">10. Ajuda e documentação</h2>
 Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facilitando a usabilidade.
 
@@ -136,3 +135,4 @@ Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facili
 
 <h3> Como exemplo de falta de heurísticas:
 <br>![image](https://github.com/raynaranasc/bertoti/assets/90811047/3a2765e5-a3ea-49cc-a71a-4096d9cea028)
+</div>
