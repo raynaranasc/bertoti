@@ -133,6 +133,3 @@ Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facili
 <br>
 
 
-<h3> Como exemplo de falta de heurísticas:
-<br>![image](https://github.com/raynaranasc/bertoti/assets/90811047/3a2765e5-a3ea-49cc-a71a-4096d9cea028)
-</div>
