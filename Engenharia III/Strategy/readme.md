@@ -16,7 +16,7 @@ public class Ingresso {
     }
     
     public void comprar(){
-        show.participar();
+        tipoCompra.comprar();
     }
     
     }
@@ -25,21 +25,21 @@ public class Ingresso {
 ```java
 public interface TipoCompra {
     
-    void participar();
+    void comprar();
 }
 ```
 ```java
-public class CompraMeia implements Show {
+public class CompraMeia implements comprar {
     
-    public void participar(){
+    public void comprar(){
         System.out.println("Ingresso Meia.");
     }
 }
 ```
 ```java
-public class CompraInteira implements Show {
+public class CompraInteira implements comprar {
     
-    public void participar(){
+    public void comprar(){
         System.out.println("Ingresso Inteira.");
     }
 }
