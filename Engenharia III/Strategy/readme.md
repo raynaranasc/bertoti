@@ -22,4 +22,25 @@ public class Ingresso {
     }
 }
 ```
-
+```java
+public interface TipoCompra {
+    
+    void participar();
+}
+```
+```java
+public class CompraMeia implements Show {
+    
+    public void participar(){
+        System.out.println("Ingresso Meia.");
+    }
+}
+```
+```java
+public class CompraInteira implements Show {
+    
+    public void participar(){
+        System.out.println("Ingresso Inteira.");
+    }
+}
+```
