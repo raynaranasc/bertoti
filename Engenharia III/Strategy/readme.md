@@ -1,46 +1,47 @@
 ## Strategy
- ![1](https://github.com/raynaranasc/bertoti/blob/main/Engenharia%20III/Strategy-Images/Diagrama.png)
+![Strategy](https://github.com/raynaranasc/bertoti/assets/90811047/a3fc0cee-f53b-4f9c-87eb-6af2deed6309)
 ```java
 public class Ingresso {
    
-    private String ingressoFilme;
-    private TipoCompra tipoCompra;
+    private String ingressoDescricao;
+    private Cinema cinema;
     
-    public Ingresso(String filme,TipoCompra tipoCompra){
-        this.ingressoFilme = filme;
-        this.tipoCompra = tipoCompra;
+    public Cliente(String descricao, Cinema cinema){
+        this.ingressoDescricao = descricao;
+        this.cinema = cinema;
     }
 
-    public String getTipoCompra() {
-        return tipoCompra;
+    public String getClienteNome() {
+        return clienteNome;
     }
     
     public void comprar(){
         tipoCompra.comprar();
     }
-    
+    public void setCinema(Cinema cinema){
+        this.cinema = cinema
     }
 }
 ```
 ```java
-public interface TipoCompra {
+public interface Cinema {
     
     void comprar();
 }
 ```
 ```java
-public class CompraMeia implements comprar {
+public class IngressoMeia implements comprar {
     
     public void comprar(){
-        System.out.println("Ingresso Meia.");
+        System.out.println("Ingresso de entrada Meia.");
     }
 }
 ```
 ```java
-public class CompraInteira implements comprar {
+public class IngressoInteira implements comprar {
     
     public void comprar(){
-        System.out.println("Ingresso Inteira.");
+        System.out.println("Ingresso de entrada Inteira.");
     }
 }
 ```
