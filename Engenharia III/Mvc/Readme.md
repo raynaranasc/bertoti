@@ -1,6 +1,7 @@
 
 ![mvc](https://github.com/raynaranasc/bertoti/assets/90811047/127975cf-49a5-412f-a3e3-24a30979bca8)
 
+MVC (Strategy + Composite + Observer + Facade + Singleton)
 
 ```java
 package view;
@@ -217,6 +218,45 @@ public class Pipoca {
         if(tamanho!=s.tamanho) return false;
         if(valor!=s.valor) return false;
         return true;
+    }
+
+}
+```java
+import java.util.List;
+
+public class Facade {
+    private Controller controller;
+    private View view;
+
+    public Facade() {
+        this.controller = new Controller();
+        this.view = new View(controller);
+    }
+
+    public List<Show> emitirIngresso() {
+        return controller.lista();
+       
+    }
+
+    public List<Show> imprimirIngresso() {
+        return controller.lista();
+       
+    }
+}
+```
+```java
+import java.util.List;
+
+class Observador implements Observer {
+    private String email;
+
+    public Observador(String email) {
+        this.pipoca = pipoca;
+    }
+
+    public void update(List l) {
+        System.out.println("A lista foi atualizada");
+      
     }
 
 }
